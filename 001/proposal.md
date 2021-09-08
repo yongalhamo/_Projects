@@ -22,7 +22,7 @@ WTWY had requested the service of the analytics team to help in optimizing the p
 
 ### Tools
 
-*  ingesting the raw data i nto a SQL database
+*  ingesting the raw data into a SQL database
 *  pandas for data exploration
 *  seaborn for further exploration though visualization
 *  Tableau for visualization
