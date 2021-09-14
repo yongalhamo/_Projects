@@ -9,12 +9,12 @@ After some exploration and cleaning,  with the objective of the stakeholders in 
 
 ![DOW](https://user-images.githubusercontent.com/33606713/133303687-12d7c4dc-47c5-4951-8f0e-e14ba707f935.png)
 
-Having narrowed down the top stations by traffic , knowing which days of the week on average has the highest amount of traffic helps in determining which days can the WTWY possibly has the highest chance for max exposure.[DOW](https://github.com/yongalhamo/Projects_Metis/blob/main/001/MVP/DOW.png)
+Having narrowed down the top stations by traffic , knowing which days of the week on average has the highest amount of traffic helps in determining which days can the WTWY possibly have the  max exposure.[DOW](https://github.com/yongalhamo/Projects_Metis/blob/main/001/MVP/DOW.png)
 
 
 ![time_interval](https://user-images.githubusercontent.com/33606713/133310595-3c55c233-29ad-43c4-9572-42872950d5bc.png)
 
-Knowing which 4 hour interval on average has traffic helps WTWY use their resources more accurately as to when they should go to the stations.[TimeInterval](https://github.com/yongalhamo/Projects_Metis/blob/main/001/MVP/time_interval.png)
+Knowing which 4 hour interval on average has most traffic helps WTWY use their resources more accurately as to when they should go to the stations.[TimeInterval](https://github.com/yongalhamo/Projects_Metis/blob/main/001/MVP/time_interval.png)
 
 #### The recommendations can be further optimized by getting specific turnstiles/addresses or additional data .
 
