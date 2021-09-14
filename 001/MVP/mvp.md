@@ -16,7 +16,7 @@ Having narrowed down the top stations by traffic , knowing which days of the wee
 
 Knowing which 4 hour interval on average has traffic helps WTWY use their resources more accurately as to when they should go to the stations.[TimeInterval](https://github.com/yongalhamo/Projects_Metis/blob/main/001/MVP/time_interval.png)
 
-**The recommendations can be further optimized by getting specific turnstiles/addresses or additional data .
+#### The recommendations can be further optimized by getting specific turnstiles/addresses or additional data .
 
 
 
