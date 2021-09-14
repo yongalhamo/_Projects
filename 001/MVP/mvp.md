@@ -1,3 +1,4 @@
+![DOW](https://user-images.githubusercontent.com/33606713/133303687-12d7c4dc-47c5-4951-8f0e-e14ba707f935.png)
 
 [MTA turnstile dataset]( http://web.mta.info/developers/turnstile.html)
 
