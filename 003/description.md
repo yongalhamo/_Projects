@@ -33,3 +33,6 @@ Tableau for visualizations
 ## Communication
 
 presentation,written explanation,code with comments.
+
+
+https://public.tableau.com/app/profile/yonga.lhamo/viz/P_s_NewYork/Sheet1?publish=yes
