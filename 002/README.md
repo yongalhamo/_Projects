@@ -47,6 +47,7 @@ The final model included 25 features ,filtered by random forest, and included a 
 
 
 ## Tools
+BeuatifoulSoup
 
 Numpy and Pandas for data manipulation
 
