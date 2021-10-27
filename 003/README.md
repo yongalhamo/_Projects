@@ -1,15 +1,12 @@
 
 # finding how funding affect students in nyc highschools
 
+Children are the future and education is vital for children not only to develop into a well rounded adult but also be successful in this world. In this project, I intend to explore funds alloted to different schools in varying communities and analyze how it may or may not affect the future of the student, in addition also explore how neighborhood income can affect schools from achieving true equality.
 
-## Abstract
-
-The goal of this project was to analyze data set on NYC highschool and find how funding may or may not affect a students success rate.
 
 ## Design
 
-This project analyzes school graduation rate and college success rate and finds relationship with funding information and other factors such as household income that may 
-affect student performance.
+This project analyzes school graduation rate and college success rate and finds relationship with funding information and other factors such as household income that may affect student performance.
 
 ## Data
 
