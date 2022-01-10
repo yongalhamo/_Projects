@@ -1,10 +1,10 @@
 # Projects
 
-## 001: Turnstile  Analysis Project
+## 001: Increase female representation in Tech
 
 Explored, cleaned and combined NYC turnstile traffic dataset with neighborhood dataset to recommend optimal spot for volunteers from Women in Tech to station at,
 
-in order to maximize their reach.
+
 
 ## 002: Anime Score Prediction
 
