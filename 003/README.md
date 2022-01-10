@@ -25,3 +25,7 @@ Tableau for visualizations
 
 
 https://public.tableau.com/app/profile/yonga.lhamo/viz/P_s_NewYork/Sheet1?publish=yes
+
+
+
+**Elaboration on the analysis can be found** [Here](https://yongalhamo.github.io/porto/post/project-3/)
