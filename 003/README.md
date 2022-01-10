@@ -1,25 +1,18 @@
 
-# finding how funding affect students in nyc highschools
+## Introduction
 
-Children are the future and education is vital for children not only to develop into a well rounded adult but also be successful in this world. In this project, I intend to explore funds alloted to different schools in varying communities and analyze how it may or may not affect the future of the student, in addition also explore how neighborhood income can affect schools from achieving true equality.
+Education is or can be the foundational groundwork of a person's material success. Bearing this thought in mind , I found it interesting how growing up in New York City we all attended schools within the zones of neighborhood that you lived in. Though there is the idea of convenience, I found that this sort of system makes it really easy to reinforce in-class mentality and perpetuate existing biases.
 
-
-## Design
-
-This project analyzes school graduation rate and college success rate and finds relationship with funding information and other factors such as household income that may affect student performance.
+Given the city system of zoning, In this project, I intend to  explore high schools , theirs neighborhoods and respective performances and also dive into fundings for given schools and analyze how it may or may not affect student performances. In addition,I will also explore how neighborhood income can be another(one of many) contingent factor in determining the success rate of a student. Understanding factors that influence a students success rate is vital in order to identify schools needing more help . 
 
 ## Data
 
-3 datasets
--NYC DOE catalogue
--Census.gov median household dataset
--nyc.gov funding per school
-
-## Algorithms
-
-Analysis and grouping together or variables to find correlation within different segments
+[NYC DOE data](https://opendata.cityofnewyork.us): List of Public schools in New York City with performance records etc.
 
 
+[NYC school funding Data](https://openbudget.ny.gov): Funding data on Public schools in New York city
+
+[Census Data](https://data.census.gov/cedsci/) : Median Household Income by region in New York City.
 
 ## Tools
 
