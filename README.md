@@ -14,4 +14,6 @@ Scraped data using BeautifulSoup and conducted in‐depth exploratory data analy
 
 Analysis on NYC Highschool dataset along with school funding data and neighborhood income data to understand how funding and income affects students success rate.
 
+## 004: Real Estate Analysis
 
+Conduct analysis on properties to decide if it is a good investment using metrics such as NOI, cash on cash and cap rate. Used Zillow API to extract data on given property url link , and a TKinter GUI for displaying and inputing information. 
