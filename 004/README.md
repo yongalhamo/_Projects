@@ -1,4 +1,10 @@
-Property Analysis with a simple gui using TKInter library from python
+## Property Investment Analysis with a simple gui using TKInter 
+## Metrics: 
+             Cash Flow
+             Cash on Cash Return
+             Capitalization Rate
+
+
 1. On running the Program, you get this Interface, with a box to put in the specified property URL.
 
 
