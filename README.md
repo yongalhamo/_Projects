@@ -18,6 +18,6 @@ Analysis on NYC Highschool dataset along with school funding data and neighborho
 
 Conduct analysis on properties to decide if it is a good investment using metrics such as NOI, cash on cash and cap rate. Used Zillow API to extract data on given property url link , and a TKinter GUI for displaying and inputing information. 
 
-## 005: Group gro locations base on spatial distance 
+## 005: Clustering
 
-Group using given features with Kmeans algorithm and display using Folium. and also group using only spacial density by using DBSCAN algorithm and displayusing folium.
+Group using given features with Kmeans algorithm and display using Folium. and also group using only spacial density by using DBSCAN algorithm and display using folium.
